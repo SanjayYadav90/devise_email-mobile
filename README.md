@@ -1,6 +1,7 @@
 # README
 
-This application having devise login with email or mobile no.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
 Things you may want to cover:
 
@@ -8,18 +9,24 @@ Things you may want to cover:
 
 * Rails version: 7.0.3
 
-* System dependencies: Ubuntu
+* System dependencies: ubruntu
 
-* Configuration
+* Configuration: 
 
-* Database creation
+* Database creation: $ rails db:create 
 
-* Database initialization
+* Links-
+	* Loing with mobile or email: 1.  https://randvblog.wordpress.com/2015/11/06/registration-and-login-with-email-or-mobile_no-by-using-devise-gem-in-rails-4-2/
 
-* How to run the test suite
+	2. Github: https://github.com/heartcombo/devise/wiki/How-To:-Allow-users-to-sign-in-using-their-username-or-email-address
 
-* Services (job queues, cache servers, search engines, etc.)
+	3. Stack overflow: https://stackoverflow.com/questions/38221862/devise-sign-up-either-by-email-or-by-mobile-number
 
-* Deployment instructions
+	*  Devise : https://guides.railsgirls.com/devise
+
+	*  Active Admin: https://activeadmin.info/documentation.html
+
+	*  Admin Error Handle: https://gist.github.com/deanpcmad/1528912 
+
 
 * ...
